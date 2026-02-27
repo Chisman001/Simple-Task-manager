@@ -7,7 +7,7 @@ Users can create, update, delete, search, and organize tasks by status (Todo, In
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗 https://chisom-task-manager.netlify.app
 
 ---
 
